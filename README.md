@@ -1,6 +1,4 @@
-**Welcome to Odessa Sync!**
-
-_Version 0.1_
+**Welcome to Odessa Sync!** _V 0.1_
 
 ---
 
