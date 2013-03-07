@@ -1,4 +1,3 @@
----
 **Welcome to Odessa Sync!**
 *Version 0.1*
 ---
